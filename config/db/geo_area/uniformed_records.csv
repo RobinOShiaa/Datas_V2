@@ -1,0 +1,81 @@
+code2,code3,common name,formal name,original area name,region abbr,region code,region
+CA,CAN,CANADA,, QUEBEC - ATLANTIC,QC,QC,Quebec
+CA,CAN,CANADA,, QUEBEC - ATLANTIC,NB,NB,New Brunswick
+CA,CAN,CANADA,, QUEBEC - ATLANTIC,PE,PE,Prince Edward Island
+CA,CAN,CANADA,, QUEBEC - ATLANTIC,NS,NS,Nova Scotia
+CA,CAN,CANADA,, SASKATCHEWAN - MANITOBA,SK,SK,Saskatchewan
+CA,CAN,CANADA,, SASKATCHEWAN - MANITOBA,MB,MB,Mantioba
+CA,CAN,CANADA,, BRITISH COLUMBIA - ALBERTA,BC,BC,British Columbia
+CA,CAN,CANADA,, BRITISH COLUMBIA - ALBERTA,AB,AB,Alberta
+CA,CAN,CANADA,, MANITOBA,MB,MB,Mantioba
+CA,CAN,CANADA,, TOTAL EAST,,,
+CA,CAN,CANADA,, WESTERN PROVINCES,AB,AB,Alberta
+CA,CAN,CANADA,, WESTERN PROVINCES,BC,BC,British Columbia
+CA,CAN,CANADA,, WESTERN PROVINCES,MB,MB,Mantioba
+CA,CAN,CANADA,, WESTERN PROVINCES,SK,SK,Saskatchewan
+CA,CAN,CANADA,, EASTERN PROVINCES,NB,NB,New Brunswick
+CA,CAN,CANADA,, EASTERN PROVINCES,NL,NL,Newfoundland and Labrador
+CA,CAN,CANADA,, EASTERN PROVINCES,NS,NS,Nova Scotia
+CA,CAN,CANADA,, EASTERN PROVINCES,ON,ON,Ontario
+CA,CAN,CANADA,, EASTERN PROVINCES,PE,PE,Prince Edward Island
+CA,CAN,CANADA,, EASTERN PROVINCES,QC,QC,Quebec
+CA,CAN,CANADA,, TOTAL WEST,,,
+US,USA,United States,United States of America, MD & DE, Md., MD,Maryland
+US,USA,United States,United States of America, MD & DE, Del., DE,Delaware
+US,USA,United States,United States of America, REGION 7 (IA KS MO NE), Iowa, IA,Iowa
+US,USA,United States,United States of America, REGION 7 (IA KS MO NE), Kans., KS,Kansas
+US,USA,United States,United States of America, REGION 7 (IA KS MO NE), Mo., MO,Missouri
+US,USA,United States,United States of America, REGION 7 (IA KS MO NE), Nebr., NE,Nebraska
+US,USA,United States,United States of America, NEW ENGLAND STATES, Conn., CT,Connecticut
+US,USA,United States,United States of America, NEW ENGLAND STATES, Maine, ME,Maine
+US,USA,United States,United States of America, NEW ENGLAND STATES, Mass., MA,Massachusetts
+US,USA,United States,United States of America, NEW ENGLAND STATES, N.H., NH,New Hampshire
+US,USA,United States,United States of America, NEW ENGLAND STATES, R.I., RI,Rhode Island
+US,USA,United States,United States of America, NEW ENGLAND STATES, Vt., VT,Vermont
+US,USA,United States,United States of America, REGION 4 (AL FL GA KY MS NC SC), Ala., AL,Alabama
+US,USA,United States,United States of America, REGION 4 (AL FL GA KY MS NC SC), Fla., FL,Florida
+US,USA,United States,United States of America, REGION 4 (AL FL GA KY MS NC SC), Ga., GA,Georgia
+US,USA,United States,United States of America, REGION 4 (AL FL GA KY MS NC SC), Ky., KY,Kentucky
+US,USA,United States,United States of America, REGION 4 (AL FL GA KY MS NC SC), Miss., MS,Mississippi
+US,USA,United States,United States of America, REGION 4 (AL FL GA KY MS NC SC), N.C., NC,North Carolina
+US,USA,United States,United States of America, REGION 4 (AL FL GA KY MS NC SC), S.C., SC,South Carolina
+US,USA,United States,United States of America, REGION 10 (AK ID OR WA), Alaska, AK,Alaska
+US,USA,United States,United States of America, REGION 10 (AK ID OR WA), Idaho, ID,Idaho
+US,USA,United States,United States of America, REGION 10 (AK ID OR WA), Ore., OR,Oregon
+US,USA,United States,United States of America, REGION 10 (AK ID OR WA), Wash., WA,Washington
+US,USA,United States,United States of America, REGION 2 (NY NJ), N.Y., NY,New York
+US,USA,United States,United States of America, REGION 2 (NY NJ), N.J., NJ,New Jersey
+US,USA,United States,United States of America, REGION 1 (CT ME NH VT MA RI), Conn., CT,Connecticut
+US,USA,United States,United States of America, REGION 1 (CT ME NH VT MA RI), Maine, ME,Maine
+US,USA,United States,United States of America, REGION 1 (CT ME NH VT MA RI), N.H., NH,New Hampshire
+US,USA,United States,United States of America, REGION 1 (CT ME NH VT MA RI), Vt., VT,Vermont
+US,USA,United States,United States of America, REGION 1 (CT ME NH VT MA RI), Mass., MA,Massachusetts
+US,USA,United States,United States of America, REGION 1 (CT ME NH VT MA RI), R.I., RI,Rhode Island
+US,USA,United States,United States of America, REGION 8 (CO MT ND SD UT WY), Colo., CO,Colorado
+US,USA,United States,United States of America, REGION 8 (CO MT ND SD UT WY), Mont., MT,Montana
+US,USA,United States,United States of America, REGION 8 (CO MT ND SD UT WY), N.D., ND,North Dakota
+US,USA,United States,United States of America, REGION 8 (CO MT ND SD UT WY), S.D., SD,South Dakota
+US,USA,United States,United States of America, REGION 8 (CO MT ND SD UT WY), Utah, UT,Utah
+US,USA,United States,United States of America, REGION 8 (CO MT ND SD UT WY), Wyo., WY,Wyoming
+US,USA,United States,United States of America, REGION 3 (DE-MD PA WV VA), Del., DE,Delaware
+US,USA,United States,United States of America, REGION 3 (DE-MD PA WV VA), Md., MD,Maryland
+US,USA,United States,United States of America, REGION 3 (DE-MD PA WV VA), Pa., PA,Pennsylvania
+US,USA,United States,United States of America, REGION 3 (DE-MD PA WV VA), W.Va., WV,West Virginia
+US,USA,United States,United States of America, REGION 3 (DE-MD PA WV VA), Va., VA,Virginia
+US,USA,United States,United States of America, REGION 6 (AR LA NM OK TX), Ark., AR,Arkansas
+US,USA,United States,United States of America, REGION 6 (AR LA NM OK TX), La., LA,Louisiana
+US,USA,United States,United States of America, REGION 6 (AR LA NM OK TX), N.M., NM,New Mexico
+US,USA,United States,United States of America, REGION 6 (AR LA NM OK TX), Okla., OK,Oklahoma
+US,USA,United States,United States of America, REGION 6 (AR LA NM OK TX), Tex., TX,Texas
+US,USA,United States,United States of America, REGION 5 (IL IN MI MN OH WI), Ill., IL,Illinois
+US,USA,United States,United States of America, REGION 5 (IL IN MI MN OH WI), Ind., IN,Indiana
+US,USA,United States,United States of America, REGION 5 (IL IN MI MN OH WI), Mich., MI,Michigan
+US,USA,United States,United States of America, REGION 5 (IL IN MI MN OH WI), Minn., MN,Minnesota
+US,USA,United States,United States of America, REGION 5 (IL IN MI MN OH WI), Ohio, OH,Ohio
+US,USA,United States,United States of America, REGION 5 (IL IN MI MN OH WI), Wis., WI,Wisconsin
+US,USA,United States,United States of America, USA-IOWA_MINNESOTA, Iowa, IA,Iowa
+US,USA,United States,United States of America, USA-IOWA_MINNESOTA, Minn., MN,Minnesota
+US,USA,United States,United States of America, REGION 9 (AZ CA HI NV), Ariz., AZ,Arizona
+US,USA,United States,United States of America, REGION 9 (AZ CA HI NV), Calif., CA,California
+US,USA,United States,United States of America, REGION 9 (AZ CA HI NV), Hawaii, HI,Hawaii
+US,USA,United States,United States of America, REGION 9 (AZ CA HI NV), Nev., NV,Nevada

@@ -1,0 +1,121 @@
+code2,code3,comman name,formal name,Abbrev, Postal, State/Territory name, original_name
+AU,AUS,Australia,Commonwealth of Australia,, , Ashmore and Cartier Islands, Ashmore and Cartier Islands
+AU,AUS,Australia,Commonwealth of Australia,, , Australian Antartic Territory, Australian Antartic Territory
+AU,AUS,Australia,Commonwealth of Australia,ACT, ACT, Australian Capital Territory, Australian Capital Territory
+AU,AUS,Australia,Commonwealth of Australia,, , Christmas Island, Christmas Island
+AU,AUS,Australia,Commonwealth of Australia,, , Cocos (Keeling) Islands, Cocos (Keeling) Islands
+AU,AUS,Australia,Commonwealth of Australia,, , Coral Sea Islands, Coral Sea Islands
+AU,AUS,Australia,Commonwealth of Australia,, , Heard Island and McDonald Islands, Heard Island and McDonald Islands
+AU,AUS,Australia,Commonwealth of Australia,, JBT, Jervis Bay Territory, Jervis Bay Territory
+AU,AUS,Australia,Commonwealth of Australia,NSW, NSW, New South Wales, New South Wales
+AU,AUS,Australia,Commonwealth of Australia,, , Norfolk Island, Norfolk Island
+AU,AUS,Australia,Commonwealth of Australia,NT, NT, Northern Territory, Northern Territory
+AU,AUS,Australia,Commonwealth of Australia,Qld, QLD, Queensland, Queensland
+AU,AUS,Australia,Commonwealth of Australia,SA, SA, South Australia, South Australia
+AU,AUS,Australia,Commonwealth of Australia,Tas, TAS, Tasmania, Tasmania
+AU,AUS,Australia,Commonwealth of Australia,Vic, VIC, Victoria, Victoria
+AU,AUS,Australia,Commonwealth of Australia,WA, WA, Western Australia, Western Australia
+AU,AUS,Australia,Commonwealth of Australia,WA, WA, WESTERN AUSTRALIA, WESTERN AUSTRALIA
+AU,AUS,Australia,Commonwealth of Australia,NSW, NSW, NEW SOUTH WALES, NEW SOUTH WALES
+AU,AUS,Australia,Commonwealth of Australia,SA, SA, SOUTH AUSTRALIA, SOUTH AUSTRALIA (INCL NT)
+AU,AUS,Australia,Commonwealth of Australia,QLD, QLD, QUEENSLAND, QUEENSLAND
+AU,AUS,Australia,Commonwealth of Australia,NSW, NSW, NEW SOUTH WALES, NEW SOUTH WALES (INCL ACT)
+AU,AUS,Australia,Commonwealth of Australia,TAS, TAS, TASMANIA, TASMANIA
+AU,AUS,Australia,Commonwealth of Australia,VIC, VIC, VICTORIA, VICTORIA
+AU,AUS,Australia,Commonwealth of Australia,SA, SA, SOUTH AUSTRALIA, SOUTH AUSTRALIA
+CA,CAN,Canada,,ON,ON,Ontario,Ontario
+CA,CAN,Canada,,QC,QC,Quebec,Quebec
+CA,CAN,Canada,,NS,NS,Nova Scotia,Nova Scotia
+CA,CAN,Canada,,NB,NB,New Brunswick,New Brunswick
+CA,CAN,Canada,,MB,MB,Mantioba,Mantioba
+CA,CAN,Canada,,BC,BC,British Columbia,British Columbia
+CA,CAN,Canada,,PE,PE,Prince Edward Island,Prince Edward Island
+CA,CAN,Canada,,SK,SK,Saskatchewan,Saskatchewan
+CA,CAN,Canada,,AB,AB,Alberta,Alberta
+CA,CAN,Canada,,NL,NL,Newfoundland and Labrador,Newfoundland and Labrador
+CA,CAN,Canada,,NL, NL, NEWFOUNDLAND AND LABRADOR, NEWFOUNDLAND AND LABRADOR
+CA,CAN,Canada,,PE, PE, PRINCE EDWARD ISLAND, PRINCE EDWARD ISLAND
+CA,CAN,Canada,,QC, QC, QUEBEC, CANADA-QUEBEC
+CA,CAN,Canada,,NS, NS, NOVA SCOTIA, NOVA SCOTIA
+CA,CAN,Canada,,SK, SK, SASKATCHEWAN, SASKATCHEWAN
+CA,CAN,Canada,,QC, QC, QUEBEC, QUEBEC
+CA,CAN,Canada,,BC, BC, BRITISH COLUMBIA, BRITISH COLUMBIA
+CA,CAN,Canada,,AB, AB, ALBERTA, ALBERTA
+CA,CAN,Canada,,ON, ON, ONTARIO, CANADA-ONTARIO
+CA,CAN,Canada,,ON, ON, ONTARIO, ONTARIO
+CA,CAN,Canada,,NB, NB, NEW BRUNSWICK, NEW BRUNSWICK
+US,USA,United States,United States of America, Ala., AL,Alabama,Alabama
+US,USA,United States,United States of America, Alaska, AK,Alaska,Alaska
+US,USA,United States,United States of America, Ariz., AZ,Arizona,Arizona
+US,USA,United States,United States of America, Ark., AR,Arkansas,Arkansas
+US,USA,United States,United States of America, Calif., CA,California,California
+US,USA,United States,United States of America, Colo., CO,Colorado,Colorado
+US,USA,United States,United States of America, Conn., CT,Connecticut,Connecticut
+US,USA,United States,United States of America, Del., DE,Delaware,Delaware
+US,USA,United States,United States of America, Fla., FL,Florida,Florida
+US,USA,United States,United States of America, Ga., GA,Georgia,Georgia
+US,USA,United States,United States of America, Hawaii, HI,Hawaii,Hawaii
+US,USA,United States,United States of America, Idaho, ID,Idaho,Idaho
+US,USA,United States,United States of America, Ill., IL,Illinois,Illinois
+US,USA,United States,United States of America, Ind., IN,Indiana,Indiana
+US,USA,United States,United States of America, Iowa, IA,Iowa,Iowa
+US,USA,United States,United States of America, Kans., KS,Kansas,Kansas
+US,USA,United States,United States of America, Ky., KY,Kentucky,Kentucky
+US,USA,United States,United States of America, La., LA,Louisiana,Louisiana
+US,USA,United States,United States of America, Maine, ME,Maine,Maine
+US,USA,United States,United States of America, Md., MD,Maryland,Maryland
+US,USA,United States,United States of America, Mass., MA,Massachusetts,Massachusetts
+US,USA,United States,United States of America, Mich., MI,Michigan,Michigan
+US,USA,United States,United States of America, Minn., MN,Minnesota,Minnesota
+US,USA,United States,United States of America, Miss., MS,Mississippi,Mississippi
+US,USA,United States,United States of America, Mo., MO,Missouri,Missouri
+US,USA,United States,United States of America, Mont., MT,Montana,Montana
+US,USA,United States,United States of America, Nebr., NE,Nebraska,Nebraska
+US,USA,United States,United States of America, Nev., NV,Nevada,Nevada
+US,USA,United States,United States of America, N.H., NH,New Hampshire,New Hampshire
+US,USA,United States,United States of America, N.J., NJ,New Jersey,New Jersey
+US,USA,United States,United States of America, N.M., NM,New Mexico,New Mexico
+US,USA,United States,United States of America, N.Y., NY,New York,New York
+US,USA,United States,United States of America, N.C., NC,North Carolina,North Carolina
+US,USA,United States,United States of America, N.D., ND,North Dakota,North Dakota
+US,USA,United States,United States of America, Ohio, OH,Ohio,Ohio
+US,USA,United States,United States of America, Okla., OK,Oklahoma,Oklahoma
+US,USA,United States,United States of America, Ore., OR,Oregon,Oregon
+US,USA,United States,United States of America, Pa., PA,Pennsylvania,Pennsylvania
+US,USA,United States,United States of America, R.I., RI,Rhode Island,Rhode Island
+US,USA,United States,United States of America, S.C., SC,South Carolina,South Carolina
+US,USA,United States,United States of America, S.D., SD,South Dakota,South Dakota
+US,USA,United States,United States of America, Tenn., TN,Tennessee,Tennessee
+US,USA,United States,United States of America, Tex., TX,Texas,Texas
+US,USA,United States,United States of America, Utah, UT,Utah,Utah
+US,USA,United States,United States of America, Vt., VT,Vermont,Vermont
+US,USA,United States,United States of America, Va., VA,Virginia,Virginia
+US,USA,United States,United States of America, Wash., WA,Washington,Washington
+US,USA,United States,United States of America, W.Va., WV,West Virginia,West Virginia
+US,USA,United States,United States of America, Wis., WI,Wisconsin,Wisconsin
+US,USA,United States,United States of America, Wyo., WY,Wyoming,Wyoming
+US,USA,United States,United States of America, n/a, AS,American Samoa,American Samoa
+US,USA,United States,United States of America, D.C., DC,District of Columbia,District of Columbia
+US,USA,United States,United States of America, FSM, FM,Federated States of Micronesia,Federated States of Micronesia
+US,USA,United States,United States of America, Guam, GU,Guam,Guam
+US,USA,United States,United States of America, n/a, MH,Marshall Islands,Marshall Islands
+US,USA,United States,United States of America, n/a, MP,Northern Mariana Islands,Northern Mariana Islands
+US,USA,United States,United States of America, Palau, PW,Palau,Palau
+US,USA,United States,United States of America, P.R., PR,Puerto Rico,Puerto Rico
+US,USA,United States,United States of America, V.I., VI,Virgin Islands,Virgin Islands
+CN,CHN,"China, People's Republic of",People's Republic of China,Hong Kong,HK,Hong Kong Special Administrative Region,Hong Kong
+CN,CHN,"China, People's Republic of",People's Republic of China,Hong Kong,HK,Hong Kong Special Administrative Region,HK
+CN,CHN,"China, People's Republic of",People's Republic of China,Macau,MC,Macau Special Administrative Region,Macau
+CN,CHN,"China, People's Republic of",People's Republic of China,Macau,MC,Macau Special Administrative Region, MACAO
+ES,ESP,Spain,Kingdom of Spain,LLEIDA,L,Province of Lleida,LLEIDA
+ES,ESP,Spain,Kingdom of Spain,LLEIDA,L,Province of Lleida, SPAIN-LLEIDA
+IT,ITA,Italy,Italian Republic,Cuneo,CN,Province of Cuneo,Cuneo
+IT,ITA,Italy,Italian Republic,Cuneo,CN,Province of Cuneo, ITALY-CUN
+BE,BEL,Belgium,Kingdom of Belgium,DANIS,ZZ,DANIS Company, BELGIUM-DANIS
+NL,NLD,Netherlands,Kingdom of the Netherlands, CURACAO,CW,Country of Cura?ao, CURAAO
+NL,NLD,Netherlands,Kingdom of the Netherlands, CURACAO,CW,Country of Cura?ao, CURACAO
+NL,NLD,Netherlands,Kingdom of the Netherlands, SINT MAARTEN,SX, SINT MAARTEN, SINT MAARTEN
+NL,NLD,Netherlands,Kingdom of the Netherlands,BEURSPRIJS,ZZ,BEURSPRIJS Company,NETHERLANDS-BEURSPRIJS
+JP,JPN,Japan,,TOKYO,13,Tokyo Metropolis,TOKYO
+JP,JPN,Japan,,TOKYO,13,Tokyo Metropolis, JAPAN(TOKYO MARKET)
+FR,FRA,France,French Republic,MPB,ZZ,MPB Company, FRANCE-MPB

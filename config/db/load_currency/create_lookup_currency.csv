@@ -1,0 +1,30 @@
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
+
+-- -----------------------------------------------------
+-- Schema datas_warehouse
+-- -----------------------------------------------------
+USE `datas_warehouse` ;
+
+-- -----------------------------------------------------
+-- Table `datas_warehouse`.`lookup_currency`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `datas_warehouse`.`lookup_currency` ;
+
+CREATE TABLE IF NOT EXISTS `datas_warehouse`.`lookup_currency` (
+  `currency_sk` INT UNSIGNED NOT NULL AUTO_INCREMENT COMMENT '',
+  `currency_code` CHAR(3) NOT NULL COMMENT '',
+  `currency` VARCHAR(45) NOT NULL COMMENT '',
+  `source` VARCHAR(145) NULL COMMENT '',
+  `outlier_verdict` VARCHAR(45) NULL COMMENT '',
+  PRIMARY KEY (`currency_sk`)  COMMENT '',
+  UNIQUE INDEX `currency_code_UNIQUE` (`currency_code` ASC)  COMMENT '')
+ENGINE = InnoDB;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;

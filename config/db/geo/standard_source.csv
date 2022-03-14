@@ -1,0 +1,294 @@
+Sort Order,ISO 3166-1 2 Letter Code,ISO 3166-1 3 Letter Code,Common Name,Formal Name,Type,Sub Type,Sovereignty,Capital,ISO 4217 Currency Code,ISO 4217 Currency Name,ITU-T Telephone Code,ISO 3166-1 Number,IANA Country Code TLD
+1,AF,AFG,Afghanistan,Islamic State of Afghanistan,Independent State,,,Kabul,AFN,Afghani,93,4,.af
+2,AL,ALB,Albania,Republic of Albania,Independent State,,,Tirana,ALL,Lek,355,8,.al
+3,DZ,DZA,Algeria,People's Democratic Republic of Algeria,Independent State,,,Algiers,DZD,Dinar,213,12,.dz
+4,AD,AND,Andorra,Principality of Andorra,Independent State,,,Andorra la Vella,EUR,Euro,376,20,.ad
+5,AO,AGO,Angola,Republic of Angola,Independent State,,,Luanda,AOA,Kwanza,244,24,.ao
+6,AG,ATG,Antigua and Barbuda,,Independent State,,,Saint John's,XCD,Dollar,-267,28,.ag
+7,AR,ARG,Argentina,Argentine Republic,Independent State,,,Buenos Aires,ARS,Peso,54,32,.ar
+8,AM,ARM,Armenia,Republic of Armenia,Independent State,,,Yerevan,AMD,Dram,374,51,.am
+9,AU,AUS,Australia,Commonwealth of Australia,Independent State,,,Canberra,AUD,Dollar,61,36,.au
+10,AT,AUT,Austria,Republic of Austria,Independent State,,,Vienna,EUR,Euro,43,40,.at
+11,AZ,AZE,Azerbaijan,Republic of Azerbaijan,Independent State,,,Baku,AZN,Manat,994,31,.az
+12,BS,BHS,"Bahamas, The",Commonwealth of The Bahamas,Independent State,,,Nassau,BSD,Dollar,-241,44,.bs
+13,BH,BHR,Bahrain,Kingdom of Bahrain,Independent State,,,Manama,BHD,Dinar,973,48,.bh
+14,BD,BGD,Bangladesh,People's Republic of Bangladesh,Independent State,,,Dhaka,BDT,Taka,880,50,.bd
+15,BB,BRB,Barbados,,Independent State,,,Bridgetown,BBD,Dollar,-245,52,.bb
+16,BY,BLR,Belarus,Republic of Belarus,Independent State,,,Minsk,BYR,Ruble,375,112,.by
+17,BE,BEL,Belgium,Kingdom of Belgium,Independent State,,,Brussels,EUR,Euro,32,56,.be
+18,BZ,BLZ,Belize,,Independent State,,,Belmopan,BZD,Dollar,501,84,.bz
+19,BJ,BEN,Benin,Republic of Benin,Independent State,,,Porto-Novo,XOF,Franc,229,204,.bj
+20,BT,BTN,Bhutan,Kingdom of Bhutan,Independent State,,,Thimphu,BTN,Ngultrum,975,64,.bt
+21,BO,BOL,Bolivia,Republic of Bolivia,Independent State,,,La Paz (administrative/legislative) and Sucre (judical),BOB,Boliviano,591,68,.bo
+22,BA,BIH,Bosnia and Herzegovina,,Independent State,,,Sarajevo,BAM,Marka,387,70,.ba
+23,BW,BWA,Botswana,Republic of Botswana,Independent State,,,Gaborone,BWP,Pula,267,72,.bw
+24,BR,BRA,Brazil,Federative Republic of Brazil,Independent State,,,Brasilia,BRL,Real,55,76,.br
+25,BN,BRN,Brunei,Negara Brunei Darussalam,Independent State,,,Bandar Seri Begawan,BND,Dollar,673,96,.bn
+26,BG,BGR,Bulgaria,Republic of Bulgaria,Independent State,,,Sofia,BGN,Lev,359,100,.bg
+27,BF,BFA,Burkina Faso,,Independent State,,,Ouagadougou,XOF,Franc,226,854,.bf
+28,BI,BDI,Burundi,Republic of Burundi,Independent State,,,Bujumbura,BIF,Franc,257,108,.bi
+29,KH,KHM,Cambodia,Kingdom of Cambodia,Independent State,,,Phnom Penh,KHR,Riels,855,116,.kh
+30,CM,CMR,Cameroon,Republic of Cameroon,Independent State,,,Yaounde,XAF,Franc,237,120,.cm
+31,CA,CAN,Canada,,Independent State,,,Ottawa,CAD,Dollar,1,124,.ca
+32,CV,CPV,Cape Verde,Republic of Cape Verde,Independent State,,,Praia,CVE,Escudo,238,132,.cv
+33,CF,CAF,Central African Republic,,Independent State,,,Bangui,XAF,Franc,236,140,.cf
+34,TD,TCD,Chad,Republic of Chad,Independent State,,,N'Djamena,XAF,Franc,235,148,.td
+35,CL,CHL,Chile,Republic of Chile,Independent State,,,Santiago (administrative/judical) and Valparaiso (legislative),CLP,Peso,56,152,.cl
+36,CN,CHN,"China, People's Republic of",People's Republic of China,Independent State,,,Beijing,CNY,Yuan Renminbi,86,156,.cn
+37,CO,COL,Colombia,Republic of Colombia,Independent State,,,Bogota,COP,Peso,57,170,.co
+38,KM,COM,Comoros,Union of Comoros,Independent State,,,Moroni,KMF,Franc,269,174,.km
+39,CD,COD,"Congo, (Congo ?? Kinshasa)",Democratic Republic of the Congo,Independent State,,,Kinshasa,CDF,Franc,243,180,.cd
+40,CG,COG,"Congo, (Congo ?? Brazzaville)",Republic of the Congo,Independent State,,,Brazzaville,XAF,Franc,242,178,.cg
+41,CR,CRI,Costa Rica,Republic of Costa Rica,Independent State,,,San Jose,CRC,Colon,506,188,.cr
+42,CI,CIV,Cote d'Ivoire (Ivory Coast),Republic of Cote d'Ivoire,Independent State,,,Yamoussoukro,XOF,Franc,225,384,.ci
+43,HR,HRV,Croatia,Republic of Croatia,Independent State,,,Zagreb,HRK,Kuna,385,191,.hr
+44,CU,CUB,Cuba,Republic of Cuba,Independent State,,,Havana,CUP,Peso,53,192,.cu
+45,CY,CYP,Cyprus,Republic of Cyprus,Independent State,,,Nicosia,CYP,Pound,357,196,.cy
+46,CZ,CZE,Czech Republic,,Independent State,,,Prague,CZK,Koruna,420,203,.cz
+47,DK,DNK,Denmark,Kingdom of Denmark,Independent State,,,Copenhagen,DKK,Krone,45,208,.dk
+48,DJ,DJI,Djibouti,Republic of Djibouti,Independent State,,,Djibouti,DJF,Franc,253,262,.dj
+49,DM,DMA,Dominica,Commonwealth of Dominica,Independent State,,,Roseau,XCD,Dollar,-766,212,.dm
+50,DO,DOM,Dominican Republic,,Independent State,,,Santo Domingo,DOP,Peso,+1-809 and 1-829,214,.do
+51,EC,ECU,Ecuador,Republic of Ecuador,Independent State,,,Quito,USD,Dollar,593,218,.ec
+52,EG,EGY,Egypt,Arab Republic of Egypt,Independent State,,,Cairo,EGP,Pound,20,818,.eg
+53,SV,SLV,El Salvador,Republic of El Salvador,Independent State,,,San Salvador,USD,Dollar,503,222,.sv
+54,GQ,GNQ,Equatorial Guinea,Republic of Equatorial Guinea,Independent State,,,Malabo,XAF,Franc,240,226,.gq
+55,ER,ERI,Eritrea,State of Eritrea,Independent State,,,Asmara,ERN,Nakfa,291,232,.er
+56,EE,EST,Estonia,Republic of Estonia,Independent State,,,Tallinn,EEK,Kroon,372,233,.ee
+57,ET,ETH,Ethiopia,Federal Democratic Republic of Ethiopia,Independent State,,,Addis Ababa,ETB,Birr,251,231,.et
+58,FJ,FJI,Fiji,Republic of the Fiji Islands,Independent State,,,Suva,FJD,Dollar,679,242,.fj
+59,FI,FIN,Finland,Republic of Finland,Independent State,,,Helsinki,EUR,Euro,358,246,.fi
+60,FR,FRA,France,French Republic,Independent State,,,Paris,EUR,Euro,33,250,.fr
+61,GA,GAB,Gabon,Gabonese Republic,Independent State,,,Libreville,XAF,Franc,241,266,.ga
+62,GM,GMB,"Gambia, The",Republic of The Gambia,Independent State,,,Banjul,GMD,Dalasi,220,270,.gm
+63,GE,GEO,Georgia,Republic of Georgia,Independent State,,,Tbilisi,GEL,Lari,995,268,.ge
+64,DE,DEU,Germany,Federal Republic of Germany,Independent State,,,Berlin,EUR,Euro,49,276,.de
+65,GH,GHA,Ghana,Republic of Ghana,Independent State,,,Accra,GHC,Cedi,233,288,.gh
+66,GR,GRC,Greece,Hellenic Republic,Independent State,,,Athens,EUR,Euro,30,300,.gr
+67,GD,GRD,Grenada,,Independent State,,,Saint George's,XCD,Dollar,-472,308,.gd
+68,GT,GTM,Guatemala,Republic of Guatemala,Independent State,,,Guatemala,GTQ,Quetzal,502,320,.gt
+69,GN,GIN,Guinea,Republic of Guinea,Independent State,,,Conakry,GNF,Franc,224,324,.gn
+70,GW,GNB,Guinea-Bissau,Republic of Guinea-Bissau,Independent State,,,Bissau,XOF,Franc,245,624,.gw
+71,GY,GUY,Guyana,Co-operative Republic of Guyana,Independent State,,,Georgetown,GYD,Dollar,592,328,.gy
+72,HT,HTI,Haiti,Republic of Haiti,Independent State,,,Port-au-Prince,HTG,Gourde,509,332,.ht
+73,HN,HND,Honduras,Republic of Honduras,Independent State,,,Tegucigalpa,HNL,Lempira,504,340,.hn
+74,HU,HUN,Hungary,Republic of Hungary,Independent State,,,Budapest,HUF,Forint,36,348,.hu
+75,IS,ISL,Iceland,Republic of Iceland,Independent State,,,Reykjavik,ISK,Krona,354,352,.is
+76,IN,IND,India,Republic of India,Independent State,,,New Delhi,INR,Rupee,91,356,.in
+77,ID,IDN,Indonesia,Republic of Indonesia,Independent State,,,Jakarta,IDR,Rupiah,62,360,.id
+78,IR,IRN,Iran,Islamic Republic of Iran,Independent State,,,Tehran,IRR,Rial,98,364,.ir
+79,IQ,IRQ,Iraq,Republic of Iraq,Independent State,,,Baghdad,IQD,Dinar,964,368,.iq
+80,IE,IRL,Ireland,,Independent State,,,Dublin,EUR,Euro,353,372,.ie
+81,IL,ISR,Israel,State of Israel,Independent State,,,Jerusalem,ILS,Shekel,972,376,.il
+82,IT,ITA,Italy,Italian Republic,Independent State,,,Rome,EUR,Euro,39,380,.it
+83,JM,JAM,Jamaica,,Independent State,,,Kingston,JMD,Dollar,-875,388,.jm
+84,JP,JPN,Japan,,Independent State,,,Tokyo,JPY,Yen,81,392,.jp
+85,JO,JOR,Jordan,Hashemite Kingdom of Jordan,Independent State,,,Amman,JOD,Dinar,962,400,.jo
+86,KZ,KAZ,Kazakhstan,Republic of Kazakhstan,Independent State,,,Astana,KZT,Tenge,7,398,.kz
+87,KE,KEN,Kenya,Republic of Kenya,Independent State,,,Nairobi,KES,Shilling,254,404,.ke
+88,KI,KIR,Kiribati,Republic of Kiribati,Independent State,,,Tarawa,AUD,Dollar,686,296,.ki
+89,KP,PRK,"Korea, North",Democratic People's Republic of Korea,Independent State,,,Pyongyang,KPW,Won,850,408,.kp
+90,KR,KOR,"Korea, South",Republic of Korea,Independent State,,,Seoul,KRW,Won,82,410,.kr
+91,KW,KWT,Kuwait,State of Kuwait,Independent State,,,Kuwait,KWD,Dinar,965,414,.kw
+92,KG,KGZ,Kyrgyzstan,Kyrgyz Republic,Independent State,,,Bishkek,KGS,Som,996,417,.kg
+93,LA,LAO,Laos,Lao People's Democratic Republic,Independent State,,,Vientiane,LAK,Kip,856,418,.la
+94,LV,LVA,Latvia,Republic of Latvia,Independent State,,,Riga,LVL,Lat,371,428,.lv
+95,LB,LBN,Lebanon,Lebanese Republic,Independent State,,,Beirut,LBP,Pound,961,422,.lb
+96,LS,LSO,Lesotho,Kingdom of Lesotho,Independent State,,,Maseru,LSL,Loti,266,426,.ls
+97,LR,LBR,Liberia,Republic of Liberia,Independent State,,,Monrovia,LRD,Dollar,231,430,.lr
+98,LY,LBY,Libya,Great Socialist People's Libyan Arab Jamahiriya,Independent State,,,Tripoli,LYD,Dinar,218,434,.ly
+99,LI,LIE,Liechtenstein,Principality of Liechtenstein,Independent State,,,Vaduz,CHF,Franc,423,438,.li
+100,LT,LTU,Lithuania,Republic of Lithuania,Independent State,,,Vilnius,LTL,Litas,370,440,.lt
+101,LU,LUX,Luxembourg,Grand Duchy of Luxembourg,Independent State,,,Luxembourg,EUR,Euro,352,442,.lu
+102,MK,MKD,Macedonia,Republic of Macedonia,Independent State,,,Skopje,MKD,Denar,389,807,.mk
+103,MG,MDG,Madagascar,Republic of Madagascar,Independent State,,,Antananarivo,MGA,Ariary,261,450,.mg
+104,MW,MWI,Malawi,Republic of Malawi,Independent State,,,Lilongwe,MWK,Kwacha,265,454,.mw
+105,MY,MYS,Malaysia,,Independent State,,,Kuala Lumpur (legislative/judical) and Putrajaya (administrative),MYR,Ringgit,60,458,.my
+106,MV,MDV,Maldives,Republic of Maldives,Independent State,,,Male,MVR,Rufiyaa,960,462,.mv
+107,ML,MLI,Mali,Republic of Mali,Independent State,,,Bamako,XOF,Franc,223,466,.ml
+108,MT,MLT,Malta,Republic of Malta,Independent State,,,Valletta,MTL,Lira,356,470,.mt
+109,MH,MHL,Marshall Islands,Republic of the Marshall Islands,Independent State,,,Majuro,USD,Dollar,692,584,.mh
+110,MR,MRT,Mauritania,Islamic Republic of Mauritania,Independent State,,,Nouakchott,MRO,Ouguiya,222,478,.mr
+111,MU,MUS,Mauritius,Republic of Mauritius,Independent State,,,Port Louis,MUR,Rupee,230,480,.mu
+112,MX,MEX,Mexico,United Mexican States,Independent State,,,Mexico,MXN,Peso,52,484,.mx
+113,FM,FSM,Micronesia,Federated States of Micronesia,Independent State,,,Palikir,USD,Dollar,691,583,.fm
+114,MD,MDA,Moldova,Republic of Moldova,Independent State,,,Chisinau,MDL,Leu,373,498,.md
+115,MC,MCO,Monaco,Principality of Monaco,Independent State,,,Monaco,EUR,Euro,377,492,.mc
+116,MN,MNG,Mongolia,,Independent State,,,Ulaanbaatar,MNT,Tugrik,976,496,.mn
+117,ME,MNE,Montenegro,Republic of Montenegro,Independent State,,,Podgorica,EUR,Euro,382,499,.me and .yu
+118,MA,MAR,Morocco,Kingdom of Morocco,Independent State,,,Rabat,MAD,Dirham,212,504,.ma
+119,MZ,MOZ,Mozambique,Republic of Mozambique,Independent State,,,Maputo,MZM,Meticail,258,508,.mz
+120,MM,MMR,Myanmar (Burma),Union of Myanmar,Independent State,,,Naypyidaw,MMK,Kyat,95,104,.mm
+121,NA,NAM,Namibia,Republic of Namibia,Independent State,,,Windhoek,NAD,Dollar,264,516,.na
+122,NR,NRU,Nauru,Republic of Nauru,Independent State,,,Yaren,AUD,Dollar,674,520,.nr
+123,NP,NPL,Nepal,,Independent State,,,Kathmandu,NPR,Rupee,977,524,.np
+124,NL,NLD,Netherlands,Kingdom of the Netherlands,Independent State,,,Amsterdam (administrative) and The Hague (legislative/judical),EUR,Euro,31,528,.nl
+125,NZ,NZL,New Zealand,,Independent State,,,Wellington,NZD,Dollar,64,554,.nz
+126,NI,NIC,Nicaragua,Republic of Nicaragua,Independent State,,,Managua,NIO,Cordoba,505,558,.ni
+127,NE,NER,Niger,Republic of Niger,Independent State,,,Niamey,XOF,Franc,227,562,.ne
+128,NG,NGA,Nigeria,Federal Republic of Nigeria,Independent State,,,Abuja,NGN,Naira,234,566,.ng
+129,NO,NOR,Norway,Kingdom of Norway,Independent State,,,Oslo,NOK,Krone,47,578,.no
+130,OM,OMN,Oman,Sultanate of Oman,Independent State,,,Muscat,OMR,Rial,968,512,.om
+131,PK,PAK,Pakistan,Islamic Republic of Pakistan,Independent State,,,Islamabad,PKR,Rupee,92,586,.pk
+132,PW,PLW,Palau,Republic of Palau,Independent State,,,Melekeok,USD,Dollar,680,585,.pw
+133,PA,PAN,Panama,Republic of Panama,Independent State,,,Panama,PAB,Balboa,507,591,.pa
+134,PG,PNG,Papua New Guinea,Independent State of Papua New Guinea,Independent State,,,Port Moresby,PGK,Kina,675,598,.pg
+135,PY,PRY,Paraguay,Republic of Paraguay,Independent State,,,Asuncion,PYG,Guarani,595,600,.py
+136,PE,PER,Peru,Republic of Peru,Independent State,,,Lima,PEN,Sol,51,604,.pe
+137,PH,PHL,Philippines,Republic of the Philippines,Independent State,,,Manila,PHP,Peso,63,608,.ph
+138,PL,POL,Poland,Republic of Poland,Independent State,,,Warsaw,PLN,Zloty,48,616,.pl
+139,PT,PRT,Portugal,Portuguese Republic,Independent State,,,Lisbon,EUR,Euro,351,620,.pt
+140,QA,QAT,Qatar,State of Qatar,Independent State,,,Doha,QAR,Rial,974,634,.qa
+141,RO,ROU,Romania,,Independent State,,,Bucharest,RON,Leu,40,642,.ro
+142,RU,RUS,Russia,Russian Federation,Independent State,,,Moscow,RUB,Ruble,7,643,.ru and .su
+143,RW,RWA,Rwanda,Republic of Rwanda,Independent State,,,Kigali,RWF,Franc,250,646,.rw
+144,KN,KNA,Saint Kitts and Nevis,Federation of Saint Kitts and Nevis,Independent State,,,Basseterre,XCD,Dollar,-868,659,.kn
+145,LC,LCA,Saint Lucia,,Independent State,,,Castries,XCD,Dollar,-757,662,.lc
+146,VC,VCT,Saint Vincent and the Grenadines,,Independent State,,,Kingstown,XCD,Dollar,-783,670,.vc
+147,WS,WSM,Samoa,Independent State of Samoa,Independent State,,,Apia,WST,Tala,685,882,.ws
+148,SM,SMR,San Marino,Republic of San Marino,Independent State,,,San Marino,EUR,Euro,378,674,.sm
+149,ST,STP,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,Independent State,,,Sao Tome,STD,Dobra,239,678,.st
+150,SA,SAU,Saudi Arabia,Kingdom of Saudi Arabia,Independent State,,,Riyadh,SAR,Rial,966,682,.sa
+151,SN,SEN,Senegal,Republic of Senegal,Independent State,,,Dakar,XOF,Franc,221,686,.sn
+152,RS,SRB,Serbia,Republic of Serbia,Independent State,,,Belgrade,RSD,Dinar,381,688,.rs and .yu
+153,SC,SYC,Seychelles,Republic of Seychelles,Independent State,,,Victoria,SCR,Rupee,248,690,.sc
+154,SL,SLE,Sierra Leone,Republic of Sierra Leone,Independent State,,,Freetown,SLL,Leone,232,694,.sl
+155,SG,SGP,Singapore,Republic of Singapore,Independent State,,,Singapore,SGD,Dollar,65,702,.sg
+156,SK,SVK,Slovakia,Slovak Republic,Independent State,,,Bratislava,SKK,Koruna,421,703,.sk
+157,SI,SVN,Slovenia,Republic of Slovenia,Independent State,,,Ljubljana,EUR,Euro,386,705,.si
+158,SB,SLB,Solomon Islands,,Independent State,,,Honiara,SBD,Dollar,677,90,.sb
+159,SO,SOM,Somalia,,Independent State,,,Mogadishu,SOS,Shilling,252,706,.so
+160,ZA,ZAF,South Africa,Republic of South Africa,Independent State,,,"Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judical)",ZAR,Rand,27,710,.za
+161,ES,ESP,Spain,Kingdom of Spain,Independent State,,,Madrid,EUR,Euro,34,724,.es
+162,LK,LKA,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Independent State,,,Colombo (administrative/judical) and Sri Jayewardenepura Kotte (legislative),LKR,Rupee,94,144,.lk
+163,SD,SDN,Sudan,Republic of the Sudan,Independent State,,,Khartoum,SDD,Dinar,249,736,.sd
+164,SR,SUR,Suriname,Republic of Suriname,Independent State,,,Paramaribo,SRD,Dollar,597,740,.sr
+165,SZ,SWZ,Swaziland,Kingdom of Swaziland,Independent State,,,Mbabane (administrative) and Lobamba (legislative),SZL,Lilangeni,268,748,.sz
+166,SE,SWE,Sweden,Kingdom of Sweden,Independent State,,,Stockholm,SEK,Kronoa,46,752,.se
+167,CH,CHE,Switzerland,Swiss Confederation,Independent State,,,Bern,CHF,Franc,41,756,.ch
+168,SY,SYR,Syria,Syrian Arab Republic,Independent State,,,Damascus,SYP,Pound,963,760,.sy
+169,TJ,TJK,Tajikistan,Republic of Tajikistan,Independent State,,,Dushanbe,TJS,Somoni,992,762,.tj
+170,TZ,TZA,Tanzania,United Republic of Tanzania,Independent State,,,Dar es Salaam (administrative/judical) and Dodoma (legislative),TZS,Shilling,255,834,.tz
+171,TH,THA,Thailand,Kingdom of Thailand,Independent State,,,Bangkok,THB,Baht,66,764,.th
+172,TL,TLS,Timor-Leste (East Timor),Democratic Republic of Timor-Leste,Independent State,,,Dili,USD,Dollar,670,626,.tp and .tl
+173,TG,TGO,Togo,Togolese Republic,Independent State,,,Lome,XOF,Franc,228,768,.tg
+174,TO,TON,Tonga,Kingdom of Tonga,Independent State,,,Nuku'alofa,TOP,Pa'anga,676,776,.to
+175,TT,TTO,Trinidad and Tobago,Republic of Trinidad and Tobago,Independent State,,,Port-of-Spain,TTD,Dollar,-867,780,.tt
+176,TN,TUN,Tunisia,Tunisian Republic,Independent State,,,Tunis,TND,Dinar,216,788,.tn
+177,TR,TUR,Turkey,Republic of Turkey,Independent State,,,Ankara,TRY,Lira,90,792,.tr
+178,TM,TKM,Turkmenistan,,Independent State,,,Ashgabat,TMM,Manat,993,795,.tm
+179,TV,TUV,Tuvalu,,Independent State,,,Funafuti,AUD,Dollar,688,798,.tv
+180,UG,UGA,Uganda,Republic of Uganda,Independent State,,,Kampala,UGX,Shilling,256,800,.ug
+181,UA,UKR,Ukraine,,Independent State,,,Kiev,UAH,Hryvnia,380,804,.ua
+182,AE,ARE,United Arab Emirates,United Arab Emirates,Independent State,,,Abu Dhabi,AED,Dirham,971,784,.ae
+183,GB,GBR,United Kingdom,United Kingdom of Great Britain and Northern Ireland,Independent State,,,London,GBP,Pound,44,826,.uk
+184,US,USA,United States,United States of America,Independent State,,,Washington,USD,Dollar,1,840,.us
+185,UY,URY,Uruguay,Oriental Republic of Uruguay,Independent State,,,Montevideo,UYU,Peso,598,858,.uy
+186,UZ,UZB,Uzbekistan,Republic of Uzbekistan,Independent State,,,Tashkent,UZS,Som,998,860,.uz
+187,VU,VUT,Vanuatu,Republic of Vanuatu,Independent State,,,Port-Vila,VUV,Vatu,678,548,.vu
+188,VA,VAT,Vatican City,State of the Vatican City,Independent State,,,Vatican City,EUR,Euro,379,336,.va
+189,VE,VEN,Venezuela,Bolivarian Republic of Venezuela,Independent State,,,Caracas,VEB,Bolivar,58,862,.ve
+190,VN,VNM,Vietnam,Socialist Republic of Vietnam,Independent State,,,Hanoi,VND,Dong,84,704,.vn
+191,YE,YEM,Yemen,Republic of Yemen,Independent State,,,Sanaa,YER,Rial,967,887,.ye
+192,ZM,ZMB,Zambia,Republic of Zambia,Independent State,,,Lusaka,ZMK,Kwacha,260,894,.zm
+193,ZW,ZWE,Zimbabwe,Republic of Zimbabwe,Independent State,,,Harare,ZWD,Dollar,263,716,.zw
+194,GE,GEO,Abkhazia,Republic of Abkhazia,Proto Independent State,,,Sokhumi,RUB,Ruble,995,268,.ge
+195,TW,TWN,"China, Republic of (Taiwan)",Republic of China,Proto Independent State,,,Taipei,TWD,Dollar,886,158,.tw
+196,AZ,AZE,Nagorno-Karabakh,Nagorno-Karabakh Republic,Proto Independent State,,,Stepanakert,AMD,Dram,277,31,.az
+197,CY,CYP,Northern Cyprus,Turkish Republic of Northern Cyprus,Proto Independent State,,,Nicosia,TRY,Lira,-302,196,.nc.tr
+198,MD,MDA,Pridnestrovie (Transnistria),Pridnestrovian Moldavian Republic,Proto Independent State,,,Tiraspol,,Ruple,-160,498,.md
+199,SO,SOM,Somaliland,Republic of Somaliland,Proto Independent State,,,Hargeisa,,Shilling,252,706,.so
+200,GE,GEO,South Ossetia,Republic of South Ossetia,Proto Independent State,,,Tskhinvali,RUB and GEL,Ruble and Lari,995,268,.ge
+201,AU,AUS,Ashmore and Cartier Islands,Territory of Ashmore and Cartier Islands,Dependency,External Territory,Australia,,,,,36,.au
+202,CX,CXR,Christmas Island,Territory of Christmas Island,Dependency,External Territory,Australia,The Settlement (Flying Fish Cove),AUD,Dollar,61,162,.cx
+203,CC,CCK,Cocos (Keeling) Islands,Territory of Cocos (Keeling) Islands,Dependency,External Territory,Australia,West Island,AUD,Dollar,61,166,.cc
+204,AU,AUS,Coral Sea Islands,Coral Sea Islands Territory,Dependency,External Territory,Australia,,,,,36,.au
+205,HM,HMD,Heard Island and McDonald Islands,Territory of Heard Island and McDonald Islands,Dependency,External Territory,Australia,,,,,334,.hm
+206,NF,NFK,Norfolk Island,Territory of Norfolk Island,Dependency,External Territory,Australia,Kingston,AUD,Dollar,672,574,.nf
+207,NC,NCL,New Caledonia,,Dependency,Sui generis Collectivity,France,Noumea,XPF,Franc,687,540,.nc
+208,PF,PYF,French Polynesia,Overseas Country of French Polynesia,Dependency,Overseas Collectivity,France,Papeete,XPF,Franc,689,258,.pf
+209,YT,MYT,Mayotte,Departmental Collectivity of Mayotte,Dependency,Overseas Collectivity,France,Mamoudzou,EUR,Euro,262,175,.yt
+210,GP,GLP,Saint Barthelemy,Collectivity of Saint Barthelemy,Dependency,Overseas Collectivity,France,Gustavia,EUR,Euro,590,312,.gp
+211,GP,GLP,Saint Martin,Collectivity of Saint Martin,Dependency,Overseas Collectivity,France,Marigot,EUR,Euro,590,312,.gp
+212,PM,SPM,Saint Pierre and Miquelon,Territorial Collectivity of Saint Pierre and Miquelon,Dependency,Overseas Collectivity,France,Saint-Pierre,EUR,Euro,508,666,.pm
+213,WF,WLF,Wallis and Futuna,Collectivity of the Wallis and Futuna Islands,Dependency,Overseas Collectivity,France,Mata'utu,XPF,Franc,681,876,.wf
+214,TF,ATF,French Southern and Antarctic Lands,Territory of the French Southern and Antarctic Lands,Dependency,Overseas Territory,France,Martin-de-Vivi??s,,,,260,.tf
+215,PF,PYF,Clipperton Island,,Dependency,Possession,France,,,,,258,.pf
+216,BV,BVT,Bouvet Island,,Dependency,Territory,Norway,,,,,74,.bv
+217,CK,COK,Cook Islands,,Dependency,Self-Governing in Free Association,New Zealand,Avarua,NZD,Dollar,682,184,.ck
+218,NU,NIU,Niue,,Dependency,Self-Governing in Free Association,New Zealand,Alofi,NZD,Dollar,683,570,.nu
+219,TK,TKL,Tokelau,,Dependency,Territory,New Zealand,,NZD,Dollar,690,772,.tk
+220,GG,GGY,Guernsey,Bailiwick of Guernsey,Dependency,Crown Dependency,United Kingdom,Saint Peter Port,GGP,Pound,44,831,.gg
+221,IM,IMN,Isle of Man,,Dependency,Crown Dependency,United Kingdom,Douglas,IMP,Pound,44,833,.im
+222,JE,JEY,Jersey,Bailiwick of Jersey,Dependency,Crown Dependency,United Kingdom,Saint Helier,JEP,Pound,44,832,.je
+223,AI,AIA,Anguilla,,Dependency,Overseas Territory,United Kingdom,The Valley,XCD,Dollar,-263,660,.ai
+224,BM,BMU,Bermuda,,Dependency,Overseas Territory,United Kingdom,Hamilton,BMD,Dollar,-440,60,.bm
+225,IO,IOT,British Indian Ocean Territory,,Dependency,Overseas Territory,United Kingdom,,,,246,86,.io
+226,,,British Sovereign Base Areas,,Dependency,Overseas Territory,United Kingdom,Episkopi,CYP,Pound,357,,
+227,VG,VGB,British Virgin Islands,,Dependency,Overseas Territory,United Kingdom,Road Town,USD,Dollar,-283,92,.vg
+228,KY,CYM,Cayman Islands,,Dependency,Overseas Territory,United Kingdom,George Town,KYD,Dollar,-344,136,.ky
+229,FK,FLK,Falkland Islands (Islas Malvinas),,Dependency,Overseas Territory,United Kingdom,Stanley,FKP,Pound,500,238,.fk
+230,GI,GIB,Gibraltar,,Dependency,Overseas Territory,United Kingdom,Gibraltar,GIP,Pound,350,292,.gi
+231,MS,MSR,Montserrat,,Dependency,Overseas Territory,United Kingdom,Plymouth,XCD,Dollar,-663,500,.ms
+232,PN,PCN,Pitcairn Islands,,Dependency,Overseas Territory,United Kingdom,Adamstown,NZD,Dollar,,612,.pn
+233,SH,SHN,Saint Helena,,Dependency,Overseas Territory,United Kingdom,Jamestown,SHP,Pound,290,654,.sh
+234,GS,SGS,South Georgia & South Sandwich Islands,,Dependency,Overseas Territory,United Kingdom,,,,,239,.gs
+235,TC,TCA,Turks and Caicos Islands,,Dependency,Overseas Territory,United Kingdom,Grand Turk,USD,Dollar,-648,796,.tc
+236,MP,MNP,Northern Mariana Islands,Commonwealth of The Northern Mariana Islands,Dependency,Commonwealth,United States,Saipan,USD,Dollar,-669,580,.mp
+237,PR,PRI,Puerto Rico,Commonwealth of Puerto Rico,Dependency,Commonwealth,United States,San Juan,USD,Dollar,+1-787 and 1-939,630,.pr
+238,AS,ASM,American Samoa,Territory of American Samoa,Dependency,Territory,United States,Pago Pago,USD,Dollar,-683,16,.as
+239,UM,UMI,Baker Island,,Dependency,Territory,United States,,,,,581,
+240,GU,GUM,Guam,Territory of Guam,Dependency,Territory,United States,Hagatna,USD,Dollar,-670,316,.gu
+241,UM,UMI,Howland Island,,Dependency,Territory,United States,,,,,581,
+242,UM,UMI,Jarvis Island,,Dependency,Territory,United States,,,,,581,
+243,UM,UMI,Johnston Atoll,,Dependency,Territory,United States,,,,,581,
+244,UM,UMI,Kingman Reef,,Dependency,Territory,United States,,,,,581,
+245,UM,UMI,Midway Islands,,Dependency,Territory,United States,,,,,581,
+246,UM,UMI,Navassa Island,,Dependency,Territory,United States,,,,,581,
+247,UM,UMI,Palmyra Atoll,,Dependency,Territory,United States,,,,,581,
+248,VI,VIR,U.S. Virgin Islands,United States Virgin Islands,Dependency,Territory,United States,Charlotte Amalie,USD,Dollar,-339,850,.vi
+249,UM,UMI,Wake Island,,Dependency,Territory,United States,,,,,850,
+250,HK,HKG,Hong Kong,Hong Kong Special Administrative Region,Proto Dependency,Special Administrative Region,China,,HKD,Dollar,852,344,.hk
+251,MO,MAC,Macau,Macau Special Administrative Region,Proto Dependency,Special Administrative Region,China,Macau,MOP,Pataca,853,446,.mo
+252,FO,FRO,Faroe Islands,,Proto Dependency,,Denmark,Torshavn,DKK,Krone,298,234,.fo
+253,GL,GRL,Greenland,,Proto Dependency,,Denmark,Nuuk (Godthab),DKK,Krone,299,304,.gl
+254,GF,GUF,French Guiana,Overseas Region of Guiana,Proto Dependency,Overseas Region,France,Cayenne,EUR,Euro,594,254,.gf
+255,GP,GLP,Guadeloupe,Overseas Region of Guadeloupe,Proto Dependency,Overseas Region,France,Basse-Terre,EUR,Euro,590,312,.gp
+256,MQ,MTQ,Martinique,Overseas Region of Martinique,Proto Dependency,Overseas Region,France,Fort-de-France,EUR,Euro,596,474,.mq
+257,RE,REU,Reunion,Overseas Region of Reunion,Proto Dependency,Overseas Region,France,Saint-Denis,EUR,Euro,262,638,.re
+258,AX,ALA,Aland,,Proto Dependency,,Finland,Mariehamn,EUR,Euro,340,248,.ax
+259,AW,ABW,Aruba,,Proto Dependency,,Netherlands,Oranjestad,AWG,Guilder,297,533,.aw
+260,AN,ANT,Netherlands Antilles,,Proto Dependency,,Netherlands,Willemstad,ANG,Guilder,599,530,.an
+261,SJ,SJM,Svalbard,,Proto Dependency,,Norway,Longyearbyen,NOK,Krone,47,744,.sj
+262,AC,ASC,Ascension,,Proto Dependency,Dependency of Saint Helena,United Kingdom,Georgetown,SHP,Pound,247,,.ac
+263,TA,TAA,Tristan da Cunha,,Proto Dependency,Dependency of Saint Helena,United Kingdom,Edinburgh,SHP,Pound,290,,
+264,AQ,ATA,Australian Antarctic Territory,,Antarctic Territory,External Territory,Australia,,,,,10,.aq
+265,AQ,ATA,Ross Dependency,,Antarctic Territory,Territory,New Zealand,,,,,10,.aq
+266,AQ,ATA,Peter I Island,,Antarctic Territory,Territory,Norway,,,,,10,.aq
+267,AQ,ATA,Queen Maud Land,,Antarctic Territory,Territory,Norway,,,,,10,.aq
+268,AQ,ATA,British Antarctic Territory,,Antarctic Territory,Overseas Territory,United Kingdom,,,,,10,.aq
+269,EU,EUP,European,EU MEMBER STATES- EVOLUTIVE (EU15 UNTIL 30/04/2004/ EU25 UNTIL 31/12/2006/ EU27 UNTIL 30/06/2013/ EU 28 SINCE 01/07/2013),,,,,EUR,Euro,,,
+270,EU,EUP,EU12_EXTRA,EU12_EXTRA,,,,,EUR,Euro,,,
+271,EU,EUP,EU12_INTRA,EU12_INTRA,,,,,EUR,Euro,,,
+272,EU,EUP,EU15_EXTRA,EU15_EXTRA,,,,,EUR,Euro,,,
+273,EU,EUP,EU15_INTRA,EU15_INTRA,,,,,EUR,Euro,,,
+274,EU,EUP,EU25_EXTRA,EU25_EXTRA,,,,,EUR,Euro,,,
+275,EU,EUP,EU25_INTRA,EU25_INTRA,,,,,EUR,Euro,,,
+276,EU,EUP,EU27_EXTRA,EU27_EXTRA,,,,,EUR,Euro,,,
+277,EU,EUP,EU27_INTRA,EU27_INTRA,,,,,EUR,Euro,,,
+278,EU,EUP,EU28_EXTRA,EU28_EXTRA,,,,,EUR,Euro,,,
+279,EU,EUP,EU28_INTRA,EU28_INTRA,,,,,EUR,Euro,,,
+280,EU,EUP,EA12,EURO AREA 12 (AT/ BE/ DE/ ES/ FI/ FR/ GR/ IE/ IT/ LU/ NL/ PT),,,,,,,,,
+281,EU,EUP,EA13,EURO AREA 13 (AT/ BE/ DE/ ES/ FI/ FR/ GR/ IE/ IT/ LU/ NL/ PT/SI),,,,,,,,,
+282,EU,EUP,EA15,EURO AREA 15 (AT/ BE/ CY/ DE/ ES/ FI/ FR/ GR/ IE/ IT/ LU/ MT/ NL/ PT/ SI),,,,,,,,,
+283,EU,EUP,EA16,EURO AREA 16 (AT/ BE/ CY/ DE/ ES/ FI/ FR/ GR/ IE/ IT/ LU/ MT/ NL/ PT/ SI/ SK),,,,,,,,,
+284,EU,EUP,EA17,EURO AREA 17 (AT/ BE/ CY/ DE/ EE/ ES/ FI/ FR/ GR/ IE/ IT/ LU/ MT/ NL/ PT/ SI/ SK),,,,,,,,,
+285,EU,EUP,EA18,EURO AREA 18 (AT/ BE/ CY/ DE/ EE/ ES/ FI/ FR/ GR/ IE/ IT/ LU/LV/ MT/ NL/ PT/ SI/ SK),,,,,,,,,
+286,EU,EUP,EU12,EU12 (BE/ DE/ DK/ ES/ FR/ GB/ GR/ IE/ IT/ NL/ PT),,,,,,,,,
+287,EU,EUP,EU15,EU15 (AT/ BE/ DE/ DK/ ES/ FI/ FR/ GB/ GR/ IE/ IT/ LU/ NL/ PT/ SE),,,,,,,,,
+288,EU,EUP,EU25,EU25 (AT/ BE/ CY/ CZ/ DE/ DK/ EE/ ES/ FI/ FR/ GB/ GR/ HU/ IE/ IT/ LT/ LU/ LV/ MT/ NL/ PL/ PT/ SE/ SI/ SK),,,,,,,,,
+289,EU,EUP,EU27,EU27 (AT/ BE/ BG/ CY/ CZ/ DE/ DK/ EE/ ES/ FI/ FR/ GB/ GR/ HU/ IE/ IT/ LT/ LU/ LV/ MT/ NL/ PL/ PT/ RO/ SE/ SI/ SK),,,,,,,,,
+290,EU,EUP,EU28,EU28 (AT/ BE/ BG/ CY/ CZ/ DE/ DK/ EE/ ES/ FI/ FR/ GB/ GR/ HR/HU/ IE/ IT/ LT/ LU/ LV/ MT/ NL/ PL/ PT/ RO/ SE/ SI/ SK),,,,,,,,,
+291,EU,EUP,EUROZONE,EUROZONE (Evol.),,,,,,,,,
+292,ZZ,ZZZ,Unknown,NO DATA/ WORK CODE,,,,,,,,,
+293,DD,DDR,EAST GERMANY,GERMANY DEMOCRATIC REPUBLIC,,,,,,,,,

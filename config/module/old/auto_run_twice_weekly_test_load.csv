@@ -1,0 +1,9 @@
+db.loader.bordbia.cereal_price
+db.loader.bordbia.dairy_price
+db.loader.bordbia.pig_price
+db.loader.bpex.slaughtering
+db.loader.bpex.weaner_price
+db.loader.hgca.grain_prices
+db.loader.imf.currency
+db.loader.pig333.pig333_price
+db.loader.usda.hog_slaughters

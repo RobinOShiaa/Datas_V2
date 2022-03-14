@@ -1,0 +1,44 @@
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
+
+-- -----------------------------------------------------
+-- Schema datas_warehouse
+-- -----------------------------------------------------
+USE `datas_warehouse` ;
+
+-- -----------------------------------------------------
+-- Table `datas_warehouse`.`lookup_geo`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `datas_warehouse`.`lookup_geo` ;
+
+CREATE TABLE IF NOT EXISTS `datas_warehouse`.`lookup_geo` (
+  `geo_sk` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT COMMENT '',
+  `geo_level` CHAR(1) NULL COMMENT 'value,meaning\n0,group\n1,group-geo\n2,geo\n3,area (region group)\n4. area-region\n5,region',
+  `group_code` VARCHAR(10) NULL COMMENT '',
+  `group_name` VARCHAR(145) NULL COMMENT '',
+  `group_formal` VARCHAR(145) NULL COMMENT '',
+  `group_original` VARCHAR(145) NULL COMMENT '',
+  `geo_code2` CHAR(2) NULL COMMENT '',
+  `geo_code3` CHAR(3) NULL COMMENT '',
+  `geo` VARCHAR(145) NULL COMMENT '',
+  `geo_formal` VARCHAR(145) NULL COMMENT '',
+  `geo_original` VARCHAR(145) NULL COMMENT '',
+  `area` VARCHAR(145) NULL COMMENT '',
+  `area_original` VARCHAR(145) NULL COMMENT '',
+  `region_code` CHAR(3) NULL COMMENT '',
+  `region_abbr` VARCHAR(45) NULL COMMENT '',
+  `region` VARCHAR(145) NULL COMMENT '',
+  `region_formal` VARCHAR(145) NULL COMMENT '',
+  `region_original` VARCHAR(145) NULL COMMENT '',
+  PRIMARY KEY (`geo_sk`)  COMMENT '',
+  UNIQUE INDEX `geo_UNIQUE` (`geo` ASC, `geo_original` ASC)  COMMENT '')
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;

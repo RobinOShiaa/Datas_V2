@@ -1,0 +1,12 @@
+db.loader.bordbia.cereal_price
+db.loader.bordbia.dairy_price
+db.loader.bordbia.pig_price
+db.loader.bordbia.pig_throughput
+db.loader.bpex.slaughtering_annual_historical
+db.loader.bpex.slaughtering_weekly_historical
+db.loader.bpex.weaner_price
+db.loader.futures.casein_price
+db.loader.hgca.grain_prices
+db.loader.imf.currency
+db.loader.pig333.pig333_price
+db.loader.usda.hog_slaughters
